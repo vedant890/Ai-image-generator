@@ -1,1 +1,1 @@
-this is Ai image generator
+This is Ai image generator web application.
